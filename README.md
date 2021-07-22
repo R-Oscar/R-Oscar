@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Codewars badge](https://www.codewars.com/users/R-Oscar/badges/large)](https://www.codewars.com/users/R-Oscar)
 <!--
 **R-Oscar/R-Oscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
